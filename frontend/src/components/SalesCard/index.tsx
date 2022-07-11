@@ -23,6 +23,10 @@ function SalesCard() {
                         onChange={(date: Date) => setMinDate(date)}
                         className="dsmeta-form-control"
                         dateFormat="dd/MM/yyyy"
+                        showYearDropdown
+                        dateFormatCalendar="MMMM"
+                        yearDropdownItemNumber={25}
+                        scrollableYearDropdown
                     />
                 </div>
                 <div className="dsmeta-form-control-container">
@@ -31,6 +35,10 @@ function SalesCard() {
                         onChange={(date: Date) => setMaxDate(date)}
                         className="dsmeta-form-control"
                         dateFormat="dd/MM/yyyy"
+                        showYearDropdown
+                        dateFormatCalendar="MMMM"
+                        yearDropdownItemNumber={25}
+                        scrollableYearDropdown
                     />
                 </div>
             </div>
