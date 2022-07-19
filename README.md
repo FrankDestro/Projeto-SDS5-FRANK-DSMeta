@@ -1,9 +1,9 @@
 
-# *DSmeta**
+# **DSmeta**
 
 **Aplicação de consulta de vendas realizadas por periodo e mecanismo de envio de SMS para o vendedor** 
 
-Link aplicação : 
+Link aplicação :
 https://dsmetas-sales.netlify.app
 
-!Tela Principal (https://github.com/FrankDestro/projeto-SDS3-FRANK/blob/main/dashboard.png)
+![Tela Principal](https://github.com/FrankDestro/projeto-SDS3-FRANK/blob/main/dashboard.png)
