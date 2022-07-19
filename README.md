@@ -6,4 +6,4 @@
 Link aplicação :
 https://dsmetas-sales.netlify.app
 
-![Tela Principal](https://github.com/FrankDestro/projeto-SDS3-FRANK/blob/main/dashboard.png)
+![Tela Principal](https://github.com/FrankDestro/Projeto-SDS5-FRANK-DSMeta/blob/main/ddsmeta.png)
